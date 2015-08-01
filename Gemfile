@@ -50,5 +50,4 @@ group :production do
 end
 
 gem 'carrierwave'
-gem 'sqlite3'
 
